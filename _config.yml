@@ -26,11 +26,11 @@ author:
   avatar           : "profile.png"
   name             : "Samuel J. Armstrong"
   pronouns         : # example: "she/her"  
-  bio              : "Graduate Student in Mathematics at the University of Kansas"
+  bio              : "Email: armstrong@ku.edu"
   location         : "Lawrence, KS"
-  employer         : #"University of Kansas"
+  employer         : "University of Kansas"
   uri              : # URL
-  email            : "armstrong@ku.edu" 
+  email            : #"armstrong@ku.edu" 
 
   # Academic websites
   academia         : # URL
