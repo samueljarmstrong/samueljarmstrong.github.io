@@ -11,7 +11,7 @@ locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Samuel J. Armstrong"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Samuel J. Armstrong"
 description              : &description "Sam's academic website"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://samueljarmstrong.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Samuel J. Armstrong"
   pronouns         : # example: "she/her"  
-  bio              : "Graduate Student at the University of Kansas"
+  bio              : "Graduate Student in Mathematics at the University of Kansas"
   location         : "Lawrence, KS"
   employer         : #"University of Kansas"
   uri              : # URL
@@ -288,7 +288,7 @@ defaults:
       type: talks
     values:
       layout: talk
-      author_profile: false
+      author_profile: true
       share: true
 
 
