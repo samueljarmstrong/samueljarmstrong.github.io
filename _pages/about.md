@@ -20,7 +20,7 @@ Two Systems of Quasilinear Wave-type Equations.</em> Submitted. ([Preprint](http
 
 Teaching
 ==========
-**Fall 2026: Lab Instructor: MATH 127, Calculus III 
+**Fall 2026** Lab Instructor: MATH 127, Calculus III 
  
 **Spring 2026** Teaching Assistant: MATH 146, Calculus II (Honors)
   
