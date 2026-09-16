@@ -19,8 +19,10 @@ Education
 
 Publications
 ==========
-1. S. J. Armstrong, G. Chen, T. Huang, and Y. Shen. <em>Regularity of Structurally Stable Cusp Singularities for
-Two Systems of Quasilinear Wave-type Equations.</em> Submitted. ([Preprint](https://arxiv.org/abs/2609.12926))
+<ol>
+<li>S. J. Armstrong, G. Chen, T. Huang, and Y. Shen. <em>Regularity of Structurally Stable Cusp Singularities for
+Two Systems of Quasilinear Wave-type Equations.</em> Submitted. ([Preprint](https://arxiv.org/abs/2609.12926))</li>
+</ol>
 
 Teaching
 ==========
