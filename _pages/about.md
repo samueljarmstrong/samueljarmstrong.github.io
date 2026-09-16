@@ -27,21 +27,26 @@ Two Systems of Quasilinear Wave-type Equations.</em> Submitted. ([Preprint](http
 
 Teaching
 ==========
-7. Lab Instructor: MATH 127, Calculus III 
+**Fall 2026: Lab Instructor: MATH 127, Calculus III 
  
-6. Teaching Assistant: MATH 146, Calculus II (Honors)
+**Spring 2026** Teaching Assistant: MATH 146, Calculus II (Honors)
   
-5. Instructor: MATH 126, Calculus II (Enhanced) 
+**Spring 2026** Instructor: MATH 126, Calculus II (Enhanced) 
     
-4.  Instructor: MATH 115, Calculus I (Business)
+**Fall 2025**  Instructor: MATH 115, Calculus I (Business)
     
-3.Instructor (Online): MATH 104, Precalculus 
+**Summer 2025** Instructor (Online): MATH 104, Precalculus 
     
-2. Instructor: MATH 115, Calculus I (Business) 
+**Spring 2025** MATH 115, Calculus I (Business) 
     
-1. Teaching Assistant: MATH 101, College Algebra 
+**Fall 2024** MATH 101, College Algebra 
 
 
 Service
 ==========
+
+
+Awards
+=========
+
 
