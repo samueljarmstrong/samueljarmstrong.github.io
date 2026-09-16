@@ -30,9 +30,9 @@ Teaching
     
 **Summer 2025** Instructor (Online): MATH 104, Precalculus 
     
-**Spring 2025** MATH 115, Calculus I (Business) 
+**Spring 2025** Instructor: MATH 115, Calculus I (Business) 
     
-**Fall 2024** MATH 101, College Algebra 
+**Fall 2024** Teaching Assistant: MATH 101, College Algebra 
 
 
 Service
