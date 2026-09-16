@@ -10,14 +10,7 @@ redirect_from:
 About
 =========
 
-I am currently a graduate student at the University of Kansas pursuing my PhD in mathematics. I am broadly interested in the analysis and numerics of partial differential equations that arise from mathematical physics. Currently, my research investigates the regularity and stability of solutions of a parameterized family of nonlinear wave equations. Such a family includes some well known equations such as the Hunter-Saxton, Camassa-Holm, and Novikov equations. 
-
-Education
-=========
-
-2026: MA in Mathematics, University of Kansas 
-
-2024: BS in Mathematics, Buena Vista University 
+I am currently a graduate student at the University of Kansas pursuing my PhD in mathematics. I received my BS in mathematics from Buena Vista University in 2024 and received my MA in mathematics from KU in 2026. I am broadly interested in the analysis and numerics of partial differential equations that arise from mathematical physics. Currently, my research investigates the regularity and stability of solutions of a parameterized family of nonlinear wave equations. Such a family includes some well known equations such as the Hunter-Saxton, Camassa-Holm, and Novikov equations. 
 
 
 Publications
