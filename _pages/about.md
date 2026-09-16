@@ -13,6 +13,7 @@ Education
 =========
 
 2026: MA in Mathematics, University of Kansas 
+
 2024: BS in Mathematics, Buena Vista University 
 
 
