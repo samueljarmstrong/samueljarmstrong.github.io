@@ -24,9 +24,8 @@ Two Systems of Quasilinear Wave-type Equations.</em> Submitted. ([Preprint](http
 
 Teaching
 ==========
-<ol>
-<li>  <strong> Fall 2026 </strong> Lab Instructor: MATH 127, Calculus III </li>
-</ol>
+**Fall 2026** Lab Instructor: MATH 127, Calculus III </li>
+
 
 Service
 ==========
