@@ -44,7 +44,5 @@ Service
 5. <em> Math Graduate Student Organization Member-at-Large </em>. University of Kansas, 2025-2026.
 
 
-Awards
-=========
 
 
