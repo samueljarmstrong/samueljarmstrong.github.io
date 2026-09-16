@@ -37,6 +37,11 @@ Teaching
 
 Service
 ==========
+1. <em> Math Graduate Student Organization President.</em> University of Kansas, 2026-2028.
+2. <em> Analysis Study Group Leader.</em> University of Kansas, 2026.
+3. <em> MSAM Mathematics and Statistics Competition Volunteer. </em> University of Kansas, 2026.
+4. <em> First-year Graduate Student Mentor. </em> University of Kansas, 2025-2026. 
+5. <em> Math Graduate Student Organization Member-at-Large </em>. University of Kansas, 2025-2026.
 
 
 Awards
