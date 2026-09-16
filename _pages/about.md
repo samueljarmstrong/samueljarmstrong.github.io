@@ -12,9 +12,17 @@ I am currently a graduate student at the University of Kansas pursuing my PhD in
 Education
 =========
 
+2026: MA in Mathematics, University of Kansas 
+2024: BS in Mathematics, Buena Vista University 
 
-CV 
+
+Publications
+==========
+
+Teaching
 ==========
 
 
+Service
+==========
 
