@@ -1,0 +1,112 @@
+<html>
+<head>
+  <title>Samuel J. Armstrong</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+body {
+  margin: 0;
+  font-family: "Lato", sans-serif;
+}
+
+.sidebar {
+  margin: 0;
+  padding: 0;
+  width: 150px;
+  background-color: #f1f1f1;
+  position: fixed;
+  height: 100%;
+  overflow: auto;
+}
+
+.sidebar a {
+  display: block;
+  color: black;
+  padding: 16px;
+  text-decoration: none;
+}
+ 
+.sidebar a.active {
+  background-color: #04AA6D;
+  color: white;
+}
+
+.sidebar a:hover:not(.active) {
+  background-color: #555;
+  color: white;
+}
+
+div.content {
+  margin-left: 200px;
+  padding: 1px 16px;
+  height: 1000px;
+}
+  
+.bio-photo {
+  margin: 0; /* Clears browser default figure margins */
+  width: 240px;
+  flex-shrink: 0;
+  text-align: center;
+}
+
+.profile-photo {
+  width: 100%;
+  height: auto;
+  display: block; /* Removes tiny extra gap underneath images */
+  border-radius: 6px;
+}
+
+.photo-credit {
+  font-size: 0.8em;
+  color: #666;
+  margin-top: 6px;
+  margin-bottom: 0;
+  line-height: 1.2;
+}
+  
+@media screen and (max-width: 700px) {
+  .sidebar {
+    width: 100%;
+    height: auto;
+    position: relative;
+  }
+  .sidebar a {float: left;}
+  div.content {margin-left: 0;}
+}
+
+@media screen and (max-width: 400px) {
+  .sidebar a {
+    text-align: center;
+    position: relative;
+  }
+}
+</style>
+</head>
+<body>
+
+<div class="sidebar">
+  <a class="active" href="https://samueljarmstrong.github.io">Home</a>
+  <a href="https://samueljarmstrong.github.io/research">Research</a>
+  <a href="https://samueljarmstrong.github.io/teaching">Teaching</a>
+  <a href="https://samueljarmstrong.github.io/service">Service</a>
+</div>
+
+<div class="content">
+  <h2>Samuel J. Armstrong</h2> 
+<!--
+  <div class="bio-container">
+      <figure class="bio-photo">
+    <img src="documents/PXL_20260831_205914354.PORTRAIT.jpg" alt="Zhipeng Liu" class="profile-photo">
+    <figcaption class="photo-credit">Photo by my daughter</figcaption>
+  </figure>
+    </div>
+	-->
+    <div class="bio-text">
+			<p>I am currently a graduate student in mathematics at the University of Kansas. My research broadly concerns the analysis and numerics of partial differential equations that arise from fluid mechanics. 
+		<p> Education </p> 
+      <p>Download CV </p>
+    </div>
+    
+</div>
+
+</body>
+</html>
