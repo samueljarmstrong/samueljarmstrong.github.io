@@ -1,0 +1,90 @@
+<html>
+<head>
+<title>Samuel J. Armstrong</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+body {
+  margin: 0;
+  font-family: "Lato", sans-serif;
+}
+.sidebar {
+  margin: 0;
+  padding: 0;
+  width: 150px;
+  background-color: #f1f1f1;
+  position: fixed;
+  height: 100%;
+  overflow: auto;
+}
+.sidebar a {
+  display: block;
+  color: black;
+  padding: 16px;
+  text-decoration: none;
+}
+.sidebar a.active {
+  background-color: #0465AA;
+  color: white;
+}
+.sidebar a:hover:not(.active) {
+  background-color: #555;
+  color: white;
+}
+div.content {
+  margin-left: 200px;
+  padding: 1px 16px;
+  height: 1000px;
+}
+@media screen and (max-width: 700px) {
+  .sidebar {
+    width: 100%;
+    height: auto;
+    position: relative;
+  }
+  .sidebar a {float: left;}
+  div.content {margin-left: 0;}
+}
+@media screen and (max-width: 400px) {
+  .sidebar a {
+    text-align: center;
+    position: relative;
+  }
+}
+
+/* Publication list styling */
+ol.publications {
+  list-style: none;
+  padding-left: 38px;
+}
+ol.publications li {
+  margin-bottom: 22px;
+  position: relative;
+  padding-left: 10px;
+}
+ol.publications li .pub-number {
+  font-weight: bold;
+  position: absolute;
+  left: -38px;
+  width: 30px;
+  text-align: right;
+}
+
+/* Special dissertation entry - shows "0." and stands out */
+ol.publications li.special .pub-number {
+  /*color: #04AA6D; */          /* nice green like your sidebar */
+  font-size: 1.1em;
+}
+</style>
+</head>
+<body>
+
+<div class="sidebar">
+  <a href="https://samueljarmstrong.github.io">Home</a>
+  <a href="https://samueljarmstrong.github.io/research">Research</a>
+  <a href="https://samueljarmstrong.github.io/teaching">Teaching</a>
+  <a class="active" href="https://samueljarmstrong.github.io/service">Service</a>
+</div>
+
+<div class="content">
+		<h2> Service </h2>
+		<p>I strongly believe that fostering community is important for supporting current mathematicians and drawing new people into the field. I take pride in assuming organizational roles within the department and volunteering in outreach efforts within the Lawrence community. </p>
